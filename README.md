@@ -2,3 +2,5 @@
 my sample project
 add by aw
 V1.0
+
+-fixed
